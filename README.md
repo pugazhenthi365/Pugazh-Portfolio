@@ -32,19 +32,18 @@ This portfolio website is designed to present my skills, projects, and professio
 ## Screenshots
 
 **Home Page**
-![Home Page](path/to/about-section-Screenshot 2025-01-31 225028.png)
 
-**About Section**
-![About Section](path/to/about-section-screenshot.png)
 
-**Projects Section**
-![Projects Section](path/to/projects-section-screenshot.png)
+**Projexts and Skill Section**
+![About Section](https://github.com/pugazhenthi365/Pugazh-Portfolio/blob/main/Screenshot%202025-01-31%20225050.png)
+
 
 **Contact Section**
-![Contact Section](path/to/contact-section-screenshot.png)
+![Contact Section](https://github.com/pugazhenthi365/Pugazh-Portfolio/blob/main/Screenshot%202025-01-31%20225107.png)
 
-**Music Player**
-![Music Player](path/to/music-player-screenshot.png)
+**Light and Dark Mode**
+![Music Player](https://github.com/pugazhenthi365/Pugazh-Portfolio/blob/main/Screenshot%202025-01-31%20225009.png)
+![Home Page](https://github.com/pugazhenthi365/Pugazh-Portfolio/blob/main/Screenshot%202025-01-31%20225028.png)
 
 ## Setup Instructions
 
