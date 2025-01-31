@@ -32,7 +32,7 @@ This portfolio website is designed to present my skills, projects, and professio
 ## Screenshots
 
 **Home Page**
-![Home Page](path/to/home-page-screenshot.png)
+![Home Page](Screenshot 2025-01-31 225009.png)
 
 **About Section**
 ![About Section](path/to/about-section-screenshot.png)
@@ -52,4 +52,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone [https://github.com/your-username/portfolio-website.git](https://github.com/pugazhenthi365/Pugazh-Portfolio.git
