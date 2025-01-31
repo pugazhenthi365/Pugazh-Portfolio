@@ -32,7 +32,7 @@ This portfolio website is designed to present my skills, projects, and professio
 ## Screenshots
 
 **Home Page**
-![Home Page](Screenshot 2025-01-31 225009.png)
+![Home Page](path/to/about-section-Screenshot 2025-01-31 225028.png)
 
 **About Section**
 ![About Section](path/to/about-section-screenshot.png)
